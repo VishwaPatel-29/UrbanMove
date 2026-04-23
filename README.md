@@ -1,7 +1,7 @@
 # 🚌 KBD-Havya - Smart Corporate Shuttle Platform
 
 <div align="center">
-  <img src="public/favicon.svg" alt="KBD-Havya Logo" width="120" height="120">
+  <!-- <img src="public/favicon.svg" alt="KBD-Havya Logo" width="120" height="120"> -->
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
